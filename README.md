@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="400" src="">
+    <img width="800" src="https://symvxx.csb.app/src/images/banner.jpg">
 </p>
 
 -------
