@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lily Script One"; 
+}
+
+body{
+    cursor: url('data:image/x-icon;base64,AAACAAEAICACAAAAAAAwAQAAFgAAACgAAAAgAAAAQAAAAAEAAQAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AAAAfwAAAOqAAAHqgAAB6sAAA//AAAd/wAAGf8AAAG9AAABtAAAAYAAAAGAAAABgAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////////////////////////gn///4B///8Af//+AD///AA///wAH//4AB//8AAf//AAH//5AB///wA///8A////D////w////8P////n////////////////////////////////////////////8='), auto;
+}
+
+header{
+    background-color: black;
+    height: 100px;
+}
+
+header ul{
+    text-align: center;
+}
+
+header li{
+    display: inline-block;
+    color: white;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 32px;
+}
+
+.banner{
+    width: 100%;
+    height: 400px;
+}
+
+.s1{
+    display: inline-block;
+    width: 250px;
+    margin-left: 200px;
+    margin-top: 25px;
+    border-radius: 20px;
+    border: solid black;
+    
+}
+
+.s2{
+    display: inline-block;
+    width: 250px;
+    margin-left: 200px;
+    margin-top: 25px;
+    border-radius: 20px;
+    border: solid black;
+    
+}
+
+footer{
+    background-color: black;
+    margin-top: 20px;
+    color: white;
+    width: 100%;
+    height: 100px;
+    
+}
+
+footer img{
+    width: 50px;
+    margin-left: 50px;
+    display: inline-block;
+    margin-top: 10px;
+
+    
+}
+
+footer p{
+    font-family: "Actor";
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 50px;
+    margin-top: 30px;
+    float: left;
+    
+}
